@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "Voltage Lord."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
