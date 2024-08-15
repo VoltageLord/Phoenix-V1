@@ -20,9 +20,9 @@
 
 11. termux-setup-storage
 
-12 git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+12 git clone https://github.com/add-your-username/Phoenix-V1 
 
-12. cd PREXZY-BUG-BOT
+12. cd Phoenix-V1
 
 14. yarn install
 
