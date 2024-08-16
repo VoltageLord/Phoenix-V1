@@ -8,7 +8,7 @@
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47">
-    <img alt="wasi" height="300" src=" ">
+    <img alt="wasi" height="300" src=" https://telegra.ph">
     <h1 align="center">PREXZY-BUG-BOT</h1>
   </a>
 </p>
