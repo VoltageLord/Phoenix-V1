@@ -76,10 +76,10 @@ termux-setup-storage
 ```
 
 ```
-git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT
+git clone https://github.com/VoltageLord/Phoenix-V1 
 ```
 ```
- cd Voltage_V1_BUG_BOT
+ cd Phoenix-V1 
 ```
 ```
 yarn install
